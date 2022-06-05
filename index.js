@@ -8,6 +8,7 @@
 // var a;
 
 // var x = 3;
+console.log("hello")
 // var y = "3";
 // console.log(y - 3) // Returns "33"
 // var obj1 = {
